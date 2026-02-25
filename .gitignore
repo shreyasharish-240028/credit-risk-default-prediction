@@ -1,0 +1,8 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.csv
+!data/sample_data.csv
+*.zip
+*.pickle
+*.keras
